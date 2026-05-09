@@ -1,0 +1,18 @@
+{
+  "name": "VitalPoint E-Clinic",
+  "description": "A robust digital health ecosystem with multi-auth security, real-time telemedicine, AI symptom analysis, and administrative ecosystem management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Telemedicine Video Consultation",
+    "End-to-End Encrypted Messaging",
+    "AI-Powered Symptom Analysis (Gemini)",
+    "RBAC Healthcare Administration",
+    "Real-time Health Trend Monitoring",
+    "HIPAA-Grade Security Design",
+    "GIF & Emoji Integrated Messaging"
+  ]
+}
